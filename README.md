@@ -16,6 +16,7 @@
 - [🐞 Ошибка при оформлении заказа без интернета (Detmir)](Bug-Reports/баг-1-оффлайн-detmir.md)
 - [🐞 Устаревшее состояние корзины в разных вкладках (Euroauto)](Bug-Reports/баг-2-корзина-вкладки-euroauto.md)
 - [🐞 Отсутствие валидации email (Euroauto)](Bug-Reports/баг-3-email-валидация-euroauto.md)
+- [🐞 Белый экран при загрузки корзины (SauceDemo)](Bug-Reports/bug-android16-white-cart.md)
 
 ## 📫 Контакты
 - Telegram: @ismateQ
