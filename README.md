@@ -12,7 +12,7 @@
 - Postman (GET, POST, PUT, PATCH, DELETE, переменные окружения, тесты)
 - DevTools (Network, Console, симуляция офлайн-режима)
 - Android Studio (эмуляторы, тестирование на разных версиях ОС)
-- 
+  
 - **Базы данных**
 - SQL (написание запросов любой сложности: SELECT, WHERE, JOIN, GROUP BY, HAVING, подзапросы)
 - Агрегатные функции (COUNT, SUM, AVG)
