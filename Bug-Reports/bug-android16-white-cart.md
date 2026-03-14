@@ -93,4 +93,4 @@ https://ibb.co/Vpzq1YTk - Скриншот экрана
 
 ## 🔗 Связанные отчёты
 
-- [Отчёт по совместимости SauceDemo](compatibility-test-saucedemo.md)
+- [Отчёт по совместимости SauceDemo](Reports/compatibility-test-saucedemo.md)
