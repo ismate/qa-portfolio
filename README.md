@@ -31,7 +31,7 @@
 - [Белый экран при переходе в корзину (Android 16)](Bug-Reports/bug-android16-white-cart.md) — критический баг на Android 16
 - [Ошибка при оформлении заказа без интернета](Bug-Reports/offline-order-detmir.md) — тестирование офлайн-режима
 - [Устаревшее состояние корзины в разных вкладках](Bug-Reports/cart-sync-euroauto.md) — проблема синхронизации
-- [Отсутствие валидации email](Bug-Reports/email-validation-euroauto.md) — баг с вводом данных
+- [Отсутствие валидации email](Bug-Reports/bug-03-email-validation-euroauto.md) — баг с вводом данных
 - *И ещё 13 баг-репортов в папке [Bug-Reports](Bug-Reports/)*
 
 ### 📊 Отчёты и исследования
