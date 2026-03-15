@@ -37,4 +37,4 @@
 ## Дополнительно
 - Баг воспроизводится стабильно
 - На скриншоте видно сообщение об ошибке и отсутствие поля ввода
-- - Скриншот ошибки: ![image](../Screenshots/screen-too-many-attempts-detmir.png)
+- ![Ошибка авторизации через Telegram](../Screenshots/screen-too-many-attempts-detmir.png)
