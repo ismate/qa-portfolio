@@ -8,11 +8,15 @@
 -- 1. Для каждого города посчитать:
 --    - количество пользователей
 --    - общую сумму всех заказов пользователей из этого города
--- Используй GROUP BY по городу
 
 -- 2. Отобразить только те города, где количество пользователей больше 2
--- Используй HAVING
 
 -- 3. Отсортировать результаты по общей сумме заказов по убыванию
--- Используй ORDER BY DESC
+
+SELECT COUNT(*), SUM(orders.amount)
+FROM users
+JOIN orders ON orders.user_id = users.id
+GROUP BY users.city
+HAVING COUNT(users.id) > 2
+ORDER BY SUM(orders.amount) DESC;
 
