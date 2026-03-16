@@ -1,4 +1,4 @@
-# BUG-003: Некорректное название товара Test.allTheThings() T-Shirt (Red)
+# BUG-007: Некорректное название товара Test.allTheThings() T-Shirt (Red)
 
 Окружение:
 - Браузер: Chrome 145.0.7632.109
