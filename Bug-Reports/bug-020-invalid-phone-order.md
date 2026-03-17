@@ -34,3 +34,8 @@
 Серьезность: Значительная (Data Validation)  
 Приоритет: Высокий  
 Воспроизводимость: 5/5
+
+Скриншот: 
+
+<img width="974" height="458" alt="detalika_invalid_number" src="https://github.com/user-attachments/assets/1212537e-9d29-4396-8d3f-48cc8295a359" />
+
