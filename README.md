@@ -28,11 +28,11 @@
 ## 📂 Проекты и документация
 
 ### 🐞 Баг-репорты
-- [Белый экран при переходе в корзину (Android 16)](Bug-Reports/bug-04-android16-white-cart.md) — критический баг на Android 16
-- [Ошибка при оформлении заказа без интернета](Bug-Reports/bug-01-offline-detmir.md) — тестирование офлайн-режима
-- [Устаревшее состояние корзины в разных вкладках](Bug-Reports/bug-02-cart-tabs-euroauto.md) — проблема синхронизации
-- [Отсутствие валидации email](Bug-Reports/bug-03-email-validation-euroauto.md) — баг с вводом данных
-- *И ещё 13 баг-репортов в папке [Bug-Reports](Bug-Reports/)*
+- [Белый экран при переходе в корзину (Android 16)](Bug-Reports/bug-004-android16-white-cart.md) — критический баг на Android 16
+- [Ошибка при оформлении заказа без интернета](Bug-Reports/bug-001-offline-detmir.md) — тестирование офлайн-режима
+- [Устаревшее состояние корзины в разных вкладках](Bug-Reports/bug-002-cart-tabs-euroauto.md) — проблема синхронизации
+- [Отсутствие валидации email](Bug-Reports/bug-003-email-validation-euroauto.md) — баг с вводом данных
+- *И ещё 16 баг-репортов в папке [Bug-Reports](Bug-Reports/)*
 
 ### 📊 Отчёты и исследования
 - [Совместимость SauceDemo с разными версиями Android](Reports/compatibility-test-saucedemo.md) — кросс-платформенное тестирование
