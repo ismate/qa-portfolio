@@ -31,3 +31,11 @@
 **Серьезность:** Критический (потеря данных заказа)  
 **Приоритет:** Высокий  
 **Воспроизводимость:** Всегда
+
+**Скриншоты:**
+- Изменение количества товара ,на 1й вкладке
+<img width="974" height="305" alt="image" src="https://github.com/user-attachments/assets/0149d140-9e79-42cf-abd2-b4ebcca0db29" />
+- На 2й вкладке количество товара не обновилось
+<img width="974" height="1109" alt="image" src="https://github.com/user-attachments/assets/0742a3d9-2e7a-4da5-8d4c-fd1f5b203074" />
+
+
