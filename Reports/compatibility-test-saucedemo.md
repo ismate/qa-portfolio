@@ -48,4 +48,4 @@
 
 ## 🔗 Связанные файлы
 
-- [Баг-репорт: Белый экран на Android 16](../Bug-Reports/bug-04-android16-white-cart.md)
+- [Баг-репорт: Белый экран на Android 16](../Bug-Reports/bug-004-android16-white-cart.md)
