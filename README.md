@@ -39,6 +39,8 @@
 - [Устаревшее состояние корзины в разных вкладках](Bug-Reports/bug-002-cart-tabs-euroauto.md) — проблема синхронизации
 - [Отсутствие валидации email](Bug-Reports/bug-003-email-validation-euroauto.md) — баг с вводом данных
 - *И ещё 16 баг-репортов в папке [Bug-Reports](Bug-Reports/)*
+- 📌 Issues (как в реальной работе):
+https://github.com/ismate/qa-portfolio/issues
 
 ### 📊 Отчёты и исследования
 - [Совместимость SauceDemo с разными версиями Android](Reports/compatibility-test-saucedemo.md) — кросс-платформенное тестирование
