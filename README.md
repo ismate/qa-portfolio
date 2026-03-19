@@ -21,6 +21,7 @@
 - SQL (написание запросов: SELECT, WHERE, JOIN, GROUP BY, HAVING, подзапросы)
 - Агрегатные функции (COUNT, SUM, AVG)
 - Работа с несколькими таблицами, объединение данных
+- [Примеры работы с SQL](SQL_Practise/)
 
 **Программирование**
 - Python (базовый: requests, assert, работа с JSON)
