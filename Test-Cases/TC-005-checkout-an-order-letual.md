@@ -1,4 +1,4 @@
-## ID: TC-005-checkout-an-order-letual
+## TC-005-checkout-an-order-letual
 **Название: Проверка оформления заказа с авторизацией пользователя**
 
 **Приоритет: High** 
