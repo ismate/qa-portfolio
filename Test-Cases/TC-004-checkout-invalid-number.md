@@ -1,4 +1,4 @@
-## ID: TC-004-checkout-invalid-number
+## TC-004-checkout-invalid-number
 **Название: Проверка валидации номера телефона при оформлении заказа**
 
 **Приоритет: High** 
