@@ -26,6 +26,7 @@
 
 **Программирование**
 - Python (базовый: requests, assert, работа с JSON)
+- pytest (fixtures, parametrize)
 - HTML/CSS/JS (понимание DOM, опыт вёрстки)
 
 ---
