@@ -26,7 +26,7 @@
 
 **Программирование**
 - Python (базовый: requests, assert, работа с JSON)
-- pytest (fixtures, parametrize)
+- pytest (fixtures, parametrize) - [Проект с использованием pytest](https://github.com/ismate/api-tests-pytest)
 - HTML/CSS/JS (понимание DOM, опыт вёрстки)
 
 ---
