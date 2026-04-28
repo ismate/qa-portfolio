@@ -64,4 +64,4 @@ https://github.com/ismate/qa-portfolio/issues
 
 ## 📌 Цель
 
-Ищу позицию Junior QA Engineer (Manual / API) с возможностью развития в автоматизации.
+Ищу позицию QA Engineer (Manual / API) с возможностью развития в автоматизации
