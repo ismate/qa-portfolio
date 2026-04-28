@@ -1,6 +1,6 @@
 # qa-portfolio
 # Привет! Я Олег — тестировщик (QA Engineer)
-Тестировщик с практическим опытом тестирования веб-приложений.
+Тестировщик с практическим опытом тестирования веб-приложений и API.
 Работаю с тест-кейсами, чек-листами и баг-репортами, тестирую пользовательские сценарии (регистрация, корзина, оформление заказа), проверяю валидацию, UI и бизнес-логику.
 ## 🛠 Навыки
 
@@ -13,20 +13,25 @@
 - Postman (GET, POST, PUT, PATCH, DELETE)
 - Проверка статус-кодов и ответов сервера
 - Работа с переменными окружения
+- Автоматизация API-тестов (pytest + requests)
+- Проверка структуры ответа через pydantic
+## 🚀 API Automation
+
+- [API Tests (pytest + requests)](https://github.com/ismate/api-tests-pytest)
 
 **Инструменты**
 - DevTools (Network, Console, симуляция офлайн-режима)
 - Android Studio (эмуляторы, тестирование на разных версиях ОС)
   
 **Базы данных**
-- SQL (написание запросов: SELECT, WHERE, JOIN, GROUP BY, HAVING, подзапросы)
+- SQL (SELECT, JOIN, базовые запросы)
 - Агрегатные функции (COUNT, SUM, AVG)
 - Работа с несколькими таблицами, объединение данных
 - [Примеры работы с SQL](SQL_Practise/)
 
 **Программирование**
 - Python (базовый: requests, assert, работа с JSON)
-- pytest (fixtures, parametrize) - [Проект с использованием pytest](https://github.com/ismate/api-tests-pytest)
+- pytest (fixtures, parametrize)
 - HTML/CSS/JS (понимание DOM, опыт вёрстки)
 
 ---
@@ -59,5 +64,4 @@ https://github.com/ismate/qa-portfolio/issues
 
 ## 📌 Цель
 
-Ищу позицию QA Engineer.
-Готов развиваться в тестировании, изучать новые инструменты и работать в команде.
+Ищу позицию Junior QA Engineer (Manual / API) с возможностью развития в автоматизации.
